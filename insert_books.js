@@ -131,6 +131,36 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
+  },
+  {
+    title: "The Road",
+    author: "Cormac McCarthy",
+    genre: "Post-apocalyptic",
+    published_year: 2006,
+    price: 13.99,
+    in_stock: true,
+    pages: 287,
+    publisher: "Alfred A. Knopf"
+  },
+  {
+    title: "The Kite Runner",
+    author: "Khaled Hosseini",
+    genre: "Drama",
+    published_year: 2003,
+    price: 11.99,
+    in_stock: true,
+    pages: 371,
+    publisher: "Riverhead Books"
+  },
+  {
+    title: "Sapiens: A Brief History of Humankind",
+    author: "Yuval Noah Harari",
+    genre: "Non-fiction",
+    published_year: 2011,
+    price: 16.99,
+    in_stock: false,
+    pages: 443,
+    publisher: "Harvill Secker"
   }
 ];
 
